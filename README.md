@@ -1,2 +1,2 @@
 # RepositorioProfissional
- Repositório de projetos de Ciência de Dados.
+ Repositório de projetos em Ciência de Dados.
